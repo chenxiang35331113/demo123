@@ -12,9 +12,6 @@
 
 name: OpenWrt Builder
 
-permission: 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
-   content: write
-
 on:
   repository_dispatch:
   workflow_dispatch:
